@@ -1,0 +1,41 @@
+name: Report a problem
+description: Something in Lince does not work as it should.
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Lince version
+      description: In About, in the side menu.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: "Xiaomi Redmi Note 13, Android 14"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce
+      description: Step by step until the problem happens.
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected and what happened
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Error report
+      description: If the app closed by itself, paste here the report it shows when opened again.
+      render: text

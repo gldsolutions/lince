@@ -1,0 +1,37 @@
+Lince — Software License
+
+Copyright (c) 2026 GLD Solutions. All rights reserved.
+
+Lince is proprietary software. GLD Solutions distributes it free of charge, in binary form only (APK),
+through https://gldsolutions.com.br/lince and https://github.com/gldsolutions/lince.
+
+1. Grant. You may install and use Lince on any number of devices you own or control, for personal
+   or commercial purposes, at no cost.
+
+2. Redistribution. You may share the unmodified APK exactly as published, provided you do not charge
+   for it and you do not present it as your own. Modified, repackaged or re-signed copies may not be
+   distributed.
+
+3. Restrictions. Except as allowed by this license, by the licenses of the third-party components
+   listed in section 5, or by applicable law, you may not modify, decompile, disassemble or reverse
+   engineer Lince, remove its notices, or use its name and logo for other products.
+
+4. Online services. The update service and the optional cloud agent at gldsolutions.com.br are
+   provided as they are and may change or stop. Their use is governed by the terms of use at
+   https://gldsolutions.com.br/lince/termos.html and the privacy policy at
+   https://gldsolutions.com.br/lince/privacidade.html.
+
+5. Third-party components. Lince includes open source components, each under its own license. The
+   list and the license texts are in the app under About, Licenses.
+   Nothing in this license limits the rights those licenses give you. In particular, for the libraries
+   under the GNU Lesser General Public License, you may modify them, replace them in your copy of
+   Lince, and reverse engineer Lince to the extent needed to debug such modifications.
+
+6. No warranty. Lince is provided "as is", without warranty of any kind, express or implied,
+   including the warranties of merchantability, fitness for a particular purpose and
+   non-infringement.
+
+7. Limitation of liability. In no event shall GLD Solutions be liable for any claim, damages or
+   other liability arising from the use of Lince, to the extent permitted by law.
+
+Contact: contato@gldsolutions.com.br
